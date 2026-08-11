@@ -23,6 +23,7 @@ export default function Page() {
             </strong> {' '}
             <a href="https://nextjs.org/learn/" className={`${lusitana.className} text-blue-500`}>
               Es Im Aragin Saitna
+              'a'
             </a>
 
           </p>
